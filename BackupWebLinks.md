@@ -1,2 +1,6 @@
 - [smartgit order page](https://syntevo.cleverbridge.com/cmcx/838/self-service/tabs/default?sid=67032184&cookie=false&client=838&s=1767772896&e=1770364896)
 - [tokyo 3d train](https://minitokyo3d.com/)
+- [tokyo 租房灾情](https://www.oshimaland.co.jp/)
+- [笔记+项目管理](https://www.notion.com/)
+- [German 手工](https://www.vinted.com/?srsltid=AfmBOopNZ50KWeV00Wv-tS4BZN0Kbw1zDo7KLnAO3D57CCw26yVkcfZs)
+- 

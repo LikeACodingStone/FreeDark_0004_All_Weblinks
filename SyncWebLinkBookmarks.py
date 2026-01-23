@@ -11,6 +11,7 @@ CHATGPT
 import os
 import json
 import platform
+import shutil
 from datetime import datetime
 
 def get_chrome_bookmarks_path():
@@ -69,8 +70,8 @@ def main():
             write_bookmarks(root, f)
 
         f.write("</DL><p>\n")
-
-    print(f"✅ 书签导出成功：{output_file}")
+    shutil.move(output_file, "bookmarks/")
+    print(f"✅ export bookmarks succeed: {output_file}")
 
 if __name__ == "__main__":
     main()

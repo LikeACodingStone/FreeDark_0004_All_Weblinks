@@ -7,4 +7,5 @@
 |Bitwarden| Password Manager|
 |
 YouTube Subscription Exporter & Importer|export first, then copy and paste| 
+|Immersive Translate - Translate Web & PDF|pdf/epub/txt file translator|
 </div>

@@ -4,8 +4,8 @@
 |Name|Function|
 |----|----|
 |PocketTube|youtube Subscription Manager|
+|YouTube Subscription Exporter & Importer|export first, then copy and paste| 
+|YouTube™ Dual Subtitles|youtube double subtitles|
 |Bitwarden| Password Manager|
-|
-YouTube Subscription Exporter & Importer|export first, then copy and paste| 
 |Immersive Translate - Translate Web & PDF|pdf/epub/txt file translator|
 </div>

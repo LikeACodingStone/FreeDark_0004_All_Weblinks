@@ -8,4 +8,8 @@
 |YouTube™ Dual Subtitles|youtube double subtitles|
 |Bitwarden| Password Manager|
 |Immersive Translate - Translate Web & PDF|pdf/epub/txt file translator|
+|Dualsub|YouTube Subtitle Translator|
+|Google Docs Offline|Edit, create, and view your documents|
+|Office Editing for Docs, Sheets & Slid|View and edit Microsoft Word, Excel|
+|Google Translate|View translations easily as you browse the web|
 </div>

@@ -12,5 +12,5 @@
 |Google Docs Offline|Edit, create, and view your documents|
 |Office Editing for Docs, Sheets & Slid|View and edit Microsoft Word, Excel|
 |Google Translate|View translations easily as you browse the web|
-|Ophel Atlas|ChatGPT、Gemini、Claude 对话导航与整理工具|
+|Language Reactor|youtube double subtitles|
 </div>
